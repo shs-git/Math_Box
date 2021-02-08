@@ -5,3 +5,8 @@ def add(a, b):
 def subtaract(a, b):
     return a - b
 
+def multiply(a,b):
+    return a * b
+
+def divide(a,b):
+    return a / b
